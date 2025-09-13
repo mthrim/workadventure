@@ -447,7 +447,7 @@
                 }, 
                 {
                  "ellipse":true,
-                 "height":82,
+                 "height":83,
                  "id":20,
                  "name":"table_outside",
                  "properties":[
@@ -457,10 +457,10 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":96,
-                 "x":257,
+                 "x":256,
                  "y":1031
                 }],
          "opacity":1,
