@@ -1202,7 +1202,7 @@
                  "name":"clockPopup",
                  "rotation":0,
                  "type":"",
-                 "visible":true,
+                 "visible":false,
                  "width":93.7162209047986,
                  "x":483.919325398621,
                  "y":14.0269116471316
@@ -1235,6 +1235,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ChillZone"
@@ -1262,6 +1267,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -1284,7 +1294,7 @@
                  "name":"clock",
                  "rotation":0,
                  "type":"area",
-                 "visible":true,
+                 "visible":false,
                  "width":50.2727272727272,
                  "x":438.484848484849,
                  "y":96.3333333333333
