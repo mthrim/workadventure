@@ -1225,8 +1225,35 @@
                  "y":952
                 }, 
                 {
-                 "height":256,
+                 "height":252,
                  "id":16,
+                 "name":"jitsiChillZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ChillZone"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":188.25,
+                 "x":256,
+                 "y":640
+                }, 
+                {
+                 "height":256,
+                 "id":31,
                  "name":"jitsiMeetingRoom",
                  "properties":[
                         {
@@ -1455,7 +1482,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":31,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
